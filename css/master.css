@@ -10,6 +10,10 @@ html, body, main, ul {
   background: transparent;
 }
 
+body {
+  background: darkseagreen;
+}
+
 .grid {
   width: 620px;
   height: 620px;
@@ -27,14 +31,10 @@ html, body, main, ul {
   height: 20px;
 }
 
-.grid li:hover {
-  opacity: .5;
-}
-
 .snake {
   background: darkolivegreen;
 }
 
 .apple {
-  background: red;
+  background: darkred;
 }
