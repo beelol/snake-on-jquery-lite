@@ -1,5 +1,4 @@
 const Game = require("./game.js");
-const $l = require("./../../jquery-lite/lib/$l.js");
 
 function SnakeView($el) {
   this.$el = $el;
