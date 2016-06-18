@@ -1,0 +1,20 @@
+.grid {
+  width: 900;
+  height: 900;
+  background: gray;
+  margin: 50px auto;
+}
+
+.grid li {
+  float: left;
+  width: 100 px;
+  height: 100 px;
+}
+
+.snake {
+  background: green;
+}
+
+.empty {
+  background: black;
+}
